@@ -1,4 +1,4 @@
-# Proiect-Tehnologii-Web
+# Manager de filme favorite integrat cu TMDB
 
    Acest produs a fost creat din dorinta de a oferi iubitorilor de filme si seriale un “tool” care sa ii ajute sa fie mai organizati in ceea ce priveste pasiunea acestora, folosindu-ne de TMDB “The Movie Database”pentru a putea procura informatiile necesare. Astfel, putem raspunde la urmatoarele intrebari:
  
