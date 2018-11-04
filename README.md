@@ -25,3 +25,6 @@
    - LetterBoxd
    - Metacritic ( conceput si pentru jocuri video si muzica )
 
+## EXEMPLU
+
+![Step 1](https://github.com/AndreeaNu/Proiect-Tehnologii-Web/blob/master/docs/EXEMPLU%20DOCUMENTATIE.jpeg)
